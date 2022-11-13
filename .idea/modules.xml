@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA_HW.iml" filepath="$PROJECT_DIR$/JAVA_HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07112022/Ubung1/Ubung1.iml" filepath="$PROJECT_DIR$/07112022/Ubung1/Ubung1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07112022/Ubung2/Ubung2.iml" filepath="$PROJECT_DIR$/07112022/Ubung2/Ubung2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26102022/num 1/num 1.iml" filepath="$PROJECT_DIR$/26102022/num 1/num 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26102022/num 2/num 2.iml" filepath="$PROJECT_DIR$/26102022/num 2/num 2.iml" />
+    </modules>
+  </component>
+</project>
